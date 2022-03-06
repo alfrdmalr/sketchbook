@@ -1,0 +1,23 @@
+{
+  "name": "sketchbook",
+  "version": "1.0.0",
+  "description": "collection of quick sketches using Processing/P5js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfrdmalr/sketchbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfrdmalr/sketchbook/issues"
+  },
+  "homepage": "https://github.com/alfrdmalr/sketchbook#readme",
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
